@@ -36,8 +36,9 @@ nav a{
     cursor: pointer;
     
 }
- a:active{
-    transform: scale(0.89);}
+a:active{
+    transform: scale(0.89);
+ background-color: rgb(20, 160, 241);}
 
 .typing{
     width: 14.5ch;

@@ -26,7 +26,7 @@ nav a:active{
     transform: scale(0.89);
  background-color: rgb(20, 160, 241);}
 /* link*/
-nav a{
+ a{
     color: #000000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
@@ -38,7 +38,7 @@ nav a{
     cursor: pointer;
     
 }
- nav a:active{
+ a:active{
     transform: scale(0.89);}
     .typing{
     width: 14.5ch;
